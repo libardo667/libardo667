@@ -1,4 +1,4 @@
-Hi, I'm Levi (they/he pronouns). I am a data analyst and beginner automation developer. I primarily work in Python, but I have done work in Java and have been exploring C recently. 
+Hi, I'm Levi. I am a data analyst and beginner automation developer. I primarily work in Python, but I have done work in Java and have been exploring C recently. 
 
 I currently do freelance work for a large medical non-profit and on the website DataAnnotation.
 
